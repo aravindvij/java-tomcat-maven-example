@@ -103,7 +103,7 @@ who
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="thumbnail.svg" alt="Card image cap">
+                <img class="card-img-top" src="ndhlogo.jpg" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">This is a smaller card with supporting text below as a natural lead-in to additional content.!!!</p>
                   <div class="d-flex justify-content-between align-items-center">
